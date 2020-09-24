@@ -6,7 +6,7 @@ import { RecordsResponse } from './types'
 import Pagination from './Pagination'
 import Filters from '../../components/Filters'
 
-const BASE_URL = 'http://localhost:8080/api/v1'
+const BASE_URL = 'https://game-voting-backend.herokuapp.com/api/v1'
 
 const Records = () => {
 
